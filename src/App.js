@@ -3,10 +3,9 @@ import "./App.css";
 import CarApiFetcher from "./components/CarApiFetcher";
 
 function App() {
-  
   return (
     <div className="App">
-      <div className="containerStyle" >
+      <div className="containerStyle">
         <CarApiFetcher />
       </div>
     </div>

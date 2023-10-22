@@ -1,5 +1,5 @@
-.containerStyle{
+.containerStyle {
     display: flex;
     flex-direction: column;
-    margin: 30 0 ;
+    margin: 30 0;
 }
